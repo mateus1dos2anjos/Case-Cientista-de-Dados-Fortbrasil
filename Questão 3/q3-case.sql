@@ -1,3 +1,5 @@
+/* Nome: Francisco Mateus dos Anjos Silva */
+
 CREATE DATABASE q3_case;
 
 CREATE TABLE d_Tempo (ID_TEMPO INT, DT_REF DATE, NU_SEMANA INT, NU_MES INT, NU_TRIMESTRE INT, NU_ANO INT);
